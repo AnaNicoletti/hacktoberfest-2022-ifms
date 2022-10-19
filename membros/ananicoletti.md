@@ -10,3 +10,7 @@ Ensino Médio com curso Técnico Integrado: finalizando.
 # Idade
 
 Nasci do dia 29 de setembro de 2005 e tenho 17 anos.
+
+# Gosto musical
+
+Sertanejo.
