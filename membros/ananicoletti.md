@@ -14,3 +14,11 @@ Nasci do dia 29 de setembro de 2005 e tenho 17 anos.
 # Gosto musical
 
 Sertanejo.
+
+# Músicas Favoritas
+
+Calma - Pedro Henrique e João Victor
+Meu Número - Hugo e Guilherme
+Me Ame Mais - Jorge e Mateus
+Uma Ex - Murilo Huff
+Outra Vida - Hugo Henrique
